@@ -14,7 +14,7 @@
 
 - 大模型基础知识
   - 通用类
-    - [【2万字】一文搞懂：大模型是怎么被训练出来的？AI大模型落地必读](https://mp.weixin.qq.com/s/o7QqcohmVJ-0ml4V-BM7Sg)
+    - (已学习)[【2万字】一文搞懂：大模型是怎么被训练出来的？AI大模型落地必读](https://mp.weixin.qq.com/s/o7QqcohmVJ-0ml4V-BM7Sg)
       - 详细介绍了大语言模型（LLM）的基本原理、训练步骤及关键技术，包括预训练、微调、强化学习（RL）和基于人类反馈的强化学习（RLHF），并探讨了如何通过这些方法提升模型性能和减少幻觉问题。同时也介绍了Deepseek的GRPO算法对RL的优化.
   - Prompt
     - [Prompt Engineering Guide](https://www.promptingguide.ai/)
